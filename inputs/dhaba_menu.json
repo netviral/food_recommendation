@@ -1,0 +1,1335 @@
+{
+    "yellow dal tadka": {
+        "id": 1,
+        "item": "Yellow Dal Tadka",
+        "item_type": "main course",
+        "price": "70/130",
+        "price_range": "low-medium"
+    },
+    "dal makhni": {
+        "id": 2,
+        "item": "Dal Makhni",
+        "item_type": "main course",
+        "price": "80/150",
+        "price_range": "low-medium"
+    },
+    "paneer tikka": {
+        "id": 3,
+        "item": "Paneer Tikka",
+        "item_type": "main course",
+        "price": 150,
+        "price_range": "medium"
+    },
+    "paneer malai tikka": {
+        "id": 4,
+        "item": "Paneer Malai Tikka",
+        "item_type": "main course",
+        "price": 160,
+        "price_range": "medium"
+    },
+    "aloo jeera": {
+        "id": 5,
+        "item": "Aloo Jeera",
+        "item_type": "main course",
+        "price": "55/100",
+        "price_range": "low"
+    },
+    "palak paneer": {
+        "id": 6,
+        "item": "Palak Paneer",
+        "item_type": "main course",
+        "price": "90/160",
+        "price_range": "low-medium"
+    },
+    "paneer hariyali tikka": {
+        "id": 7,
+        "item": "Paneer Hariyali Tikka",
+        "item_type": "main course",
+        "price": 160,
+        "price_range": "medium"
+    },
+    "punjabi kadhi pakora": {
+        "id": 8,
+        "item": "Punjabi Kadhi Pakora",
+        "item_type": "main course",
+        "price": 110,
+        "price_range": "medium"
+    },
+    "matar paneer": {
+        "id": 9,
+        "item": "Matar Paneer",
+        "item_type": "main course",
+        "price": "80/150",
+        "price_range": "low-medium"
+    },
+    "paneer achari tikka": {
+        "id": 10,
+        "item": "Paneer Achari Tikka",
+        "item_type": "main course",
+        "price": 150,
+        "price_range": "medium"
+    },
+    "alco matar": {
+        "id": 11,
+        "item": "Alco Matar",
+        "item_type": "main course",
+        "price": "60/110",
+        "price_range": "low"
+    },
+    "shahi paneer": {
+        "id": 12,
+        "item": "Shahi Paneer",
+        "item_type": "main course",
+        "price": "90/170",
+        "price_range": "low-medium"
+    },
+    "mushroom tikka": {
+        "id": 13,
+        "item": "Mushroom Tikka",
+        "item_type": "main course",
+        "price": 170,
+        "price_range": "medium"
+    },
+    "rajma masala": {
+        "id": 14,
+        "item": "Rajma Masala",
+        "item_type": "main course",
+        "price": "80/150",
+        "price_range": "low-medium"
+    },
+    "kadai paneer": {
+        "id": 15,
+        "item": "Kadai Paneer",
+        "item_type": "main course",
+        "price": "80/150",
+        "price_range": "low-medium"
+    },
+    "soya tikka": {
+        "id": 16,
+        "item": "Soya Tikka",
+        "item_type": "main course",
+        "price": 160,
+        "price_range": "medium"
+    },
+    "chana masala": {
+        "id": 17,
+        "item": "Chana Masala",
+        "item_type": "main course",
+        "price": "80/150",
+        "price_range": "low-medium"
+    },
+    "chilli paneer dry": {
+        "id": 18,
+        "item": "Chilli Paneer Dry",
+        "item_type": "main course",
+        "price": "100/190",
+        "price_range": "medium"
+    },
+    "stuff mushroom tikka": {
+        "id": 19,
+        "item": "Stuff Mushroom Tikka",
+        "item_type": "main course",
+        "price": 180,
+        "price_range": "high"
+    },
+    "kashmiri dum aloo": {
+        "id": 20,
+        "item": "Kashmiri Dum Aloo",
+        "item_type": "main course",
+        "price": "70/130",
+        "price_range": "low-medium"
+    },
+    "chilli paneer gravy": {
+        "id": 21,
+        "item": "Chilli Paneer Gravy",
+        "item_type": "main course",
+        "price": "100/190",
+        "price_range": "medium"
+    },
+    "soya malal tikka": {
+        "id": 22,
+        "item": "Soya Malal Tikka",
+        "item_type": "main course",
+        "price": 160,
+        "price_range": "medium"
+    },
+    "mix vegetable": {
+        "id": 23,
+        "item": "Mix Vegetable",
+        "item_type": "main course",
+        "price": "70/130",
+        "price_range": "low-medium"
+    },
+    "paneer do pyaza": {
+        "id": 24,
+        "item": "Paneer Do Pyaza",
+        "item_type": "main course",
+        "price": "80/150",
+        "price_range": "low-medium"
+    },
+    "aica gobhi": {
+        "id": 25,
+        "item": "Aica Gobhi",
+        "item_type": "main course",
+        "price": "70/130",
+        "price_range": "low-medium"
+    },
+    "cheese tomato": {
+        "id": 26,
+        "item": "Cheese Tomato",
+        "item_type": "main course",
+        "price": "90/170",
+        "price_range": "low-medium"
+    },
+    "kathi paneer roll": {
+        "id": 27,
+        "item": "Kathi Paneer Roll",
+        "item_type": "snack",
+        "price": 130,
+        "price_range": "medium"
+    },
+    "veg. makhni": {
+        "id": 28,
+        "item": "Veg. Makhni",
+        "item_type": "main course",
+        "price": "80/140",
+        "price_range": "low-medium"
+    },
+    "paneer butter masala": {
+        "id": 29,
+        "item": "Paneer Butter Masala",
+        "item_type": "main course",
+        "price": "80/150",
+        "price_range": "low-medium"
+    },
+    "mix tandoori platter": {
+        "id": 30,
+        "item": "Mix Tandoori Platter",
+        "item_type": "main course",
+        "price": 200,
+        "price_range": "high"
+    },
+    "mushroom matar": {
+        "id": 31,
+        "item": "Mushroom Matar",
+        "item_type": "main course",
+        "price": "80/140",
+        "price_range": "low-medium"
+    },
+    "punjabi paneer burji": {
+        "id": 32,
+        "item": "Punjabi Paneer Burji",
+        "item_type": "main course",
+        "price": "100/200",
+        "price_range": "medium-high"
+    },
+    "soya kathi roll": {
+        "id": 33,
+        "item": "Soya Kathi Roll",
+        "item_type": "snack",
+        "price": 130,
+        "price_range": "medium"
+    },
+    "mushroom do pyaza": {
+        "id": 34,
+        "item": "Mushroom Do Pyaza",
+        "item_type": "main course",
+        "price": "80/140",
+        "price_range": "low-medium"
+    },
+    "paneer punjabi": {
+        "id": 35,
+        "item": "Paneer Punjabi",
+        "item_type": "main course",
+        "price": "80/150",
+        "price_range": "low-medium"
+    },
+    "mushroom roll": {
+        "id": 36,
+        "item": "Mushroom Roll",
+        "item_type": "snack",
+        "price": 150,
+        "price_range": "medium"
+    },
+    "kadai mushroom": {
+        "id": 37,
+        "item": "Kadai Mushroom",
+        "item_type": "main course",
+        "price": "90/150",
+        "price_range": "low-medium"
+    },
+    "paneer pasanda": {
+        "id": 38,
+        "item": "Paneer Pasanda",
+        "item_type": "main course",
+        "price": 170,
+        "price_range": "medium"
+    },
+    "aloc reil": {
+        "id": 39,
+        "item": "Aloc Reil",
+        "item_type": "main course",
+        "price": 100,
+        "price_range": "medium"
+    },
+    "special veg.": {
+        "id": 40,
+        "item": "Special Veg.",
+        "item_type": "main course",
+        "price": 150,
+        "price_range": "medium"
+    },
+    "paneer lababdar": {
+        "id": 41,
+        "item": "Paneer Lababdar",
+        "item_type": "main course",
+        "price": "80/150",
+        "price_range": "low-medium"
+    },
+    "pudina paneer tikka": {
+        "id": 42,
+        "item": "Pudina Paneer Tikka",
+        "item_type": "main course",
+        "price": 150,
+        "price_range": "medium"
+    },
+    "shahi soya chaap": {
+        "id": 43,
+        "item": "Shahi Soya Chaap",
+        "item_type": "main course",
+        "price": 150,
+        "price_range": "medium"
+    },
+    "paneer makhn": {
+        "id": 44,
+        "item": "Paneer Makhn",
+        "item_type": "main course",
+        "price": "80/150",
+        "price_range": "low-medium"
+    },
+    "pudina mushroom tikka": {
+        "id": 45,
+        "item": "Pudina Mushroom Tikka",
+        "item_type": "main course",
+        "price": 170,
+        "price_range": "medium"
+    },
+    "methi malai matar": {
+        "id": 46,
+        "item": "Methi Malai Matar",
+        "item_type": "main course",
+        "price": 150,
+        "price_range": "medium"
+    },
+    "paneer taka tak": {
+        "id": 47,
+        "item": "Paneer Taka Tak",
+        "item_type": "main course",
+        "price": 170,
+        "price_range": "medium"
+    },
+    "pudina chap tikka": {
+        "id": 48,
+        "item": "Pudina Chap Tikka",
+        "item_type": "main course",
+        "price": 150,
+        "price_range": "medium"
+    },
+    "paneer hyderabadi": {
+        "id": 49,
+        "item": "Paneer Hyderabadi",
+        "item_type": "main course",
+        "price": 150,
+        "price_range": "medium"
+    },
+    "paneer tikka butter masala": {
+        "id": 50,
+        "item": "Paneer Tikka Butter Masala",
+        "item_type": "main course",
+        "price": 170,
+        "price_range": "medium"
+    },
+    "afgani chap tikka": {
+        "id": 51,
+        "item": "Afgani Chap Tikka",
+        "item_type": "main course",
+        "price": 160,
+        "price_range": "medium"
+    },
+    "chaap gravy": {
+        "id": 52,
+        "item": "Chaap Gravy",
+        "item_type": "main course",
+        "price": "90/160",
+        "price_range": "low-medium"
+    },
+    "stuff tandoori mushroom": {
+        "id": 53,
+        "item": "Stuff Tandoori Mushroom",
+        "item_type": "main course",
+        "price": 180,
+        "price_range": "high"
+    },
+    "hyderabadi paneer": {
+        "id": 54,
+        "item": "Hyderabadi Paneer",
+        "item_type": "main course",
+        "price": "80/150",
+        "price_range": "low-medium"
+    },
+    "kali mirch paneer tikka": {
+        "id": 55,
+        "item": "Kali Mirch Paneer Tikka",
+        "item_type": "main course",
+        "price": 160,
+        "price_range": "medium"
+    },
+    "soya tikka butter masala": {
+        "id": 56,
+        "item": "Soya Tikka Butter Masala",
+        "item_type": "main course",
+        "price": 160,
+        "price_range": "medium"
+    },
+    "paneer lakhnavi": {
+        "id": 57,
+        "item": "Paneer Lakhnavi",
+        "item_type": "main course",
+        "price": 140,
+        "price_range": "medium"
+    },
+    "kali mirch mushroom tikka": {
+        "id": 58,
+        "item": "Kali Mirch Mushroom Tikka",
+        "item_type": "main course",
+        "price": 170,
+        "price_range": "medium"
+    },
+    "chilli mushroom": {
+        "id": 59,
+        "item": "Chilli Mushroom",
+        "item_type": "main course",
+        "price": "170/160",
+        "price_range": "medium"
+    },
+    "stuff paneer": {
+        "id": 60,
+        "item": "Stuff Paneer",
+        "item_type": "main course",
+        "price": 140,
+        "price_range": "medium"
+    },
+    "kall mich chap tikka": {
+        "id": 61,
+        "item": "Kall Mich Chap Tikka",
+        "item_type": "main course",
+        "price": 150,
+        "price_range": "medium"
+    },
+    "malai kofta": {
+        "id": 62,
+        "item": "Malai Kofta",
+        "item_type": "main course",
+        "price": null,
+        "price_range": "unknown"
+    },
+    "stuff tomato": {
+        "id": 63,
+        "item": "Stuff Tomato",
+        "item_type": "main course",
+        "price": 120,
+        "price_range": "medium"
+    },
+    "seek kebab": {
+        "id": 64,
+        "item": "Seek Kebab",
+        "item_type": "snack",
+        "price": 120,
+        "price_range": "medium"
+    },
+    "kaju curry": {
+        "id": 65,
+        "item": "Kaju Curry",
+        "item_type": "main course",
+        "price": "180/120",
+        "price_range": "medium-high"
+    },
+    "paneer handi": {
+        "id": 66,
+        "item": "Paneer Handi",
+        "item_type": "main course",
+        "price": 200,
+        "price_range": "high"
+    },
+    "mix roll": {
+        "id": 67,
+        "item": "Mix Roll",
+        "item_type": "snack",
+        "price": null,
+        "price_range": "unknown"
+    },
+    "paneer adraki": {
+        "id": 68,
+        "item": "Paneer Adraki",
+        "item_type": "main course",
+        "price": 200,
+        "price_range": "high"
+    },
+    "stuff aloo": {
+        "id": 69,
+        "item": "Stuff Aloo",
+        "item_type": "snack",
+        "price": 120,
+        "price_range": "medium"
+    },
+    "veg seek kebab": {
+        "id": 70,
+        "item": "Veg Seek Kebab",
+        "item_type": "snack",
+        "price": 120,
+        "price_range": "medium"
+    },
+    "plain maggie": {
+        "id": 71,
+        "item": "Plain Maggie",
+        "item_type": "snack",
+        "price": 40,
+        "price_range": "low"
+    },
+    "veg. maggie": {
+        "id": 72,
+        "item": "Veg. Maggie",
+        "item_type": "snack",
+        "price": 50,
+        "price_range": "low"
+    },
+    "stuff mushroom": {
+        "id": 73,
+        "item": "Stuff Mushroom",
+        "item_type": "main course",
+        "price": 170,
+        "price_range": "medium"
+    },
+    "plain dahi": {
+        "id": 74,
+        "item": "Plain Dahi",
+        "item_type": "side dish",
+        "price": 50,
+        "price_range": "low"
+    },
+    "mushroom maggie": {
+        "id": 75,
+        "item": "Mushroom Maggie",
+        "item_type": "snack",
+        "price": 60,
+        "price_range": "low"
+    },
+    "dal punjabi": {
+        "id": 76,
+        "item": "Dal Punjabi",
+        "item_type": "main course",
+        "price": 130,
+        "price_range": "medium"
+    },
+    "bundi raita": {
+        "id": 77,
+        "item": "Bundi Raita",
+        "item_type": "side dish",
+        "price": 60,
+        "price_range": "low"
+    },
+    "lemon water": {
+        "id": 78,
+        "item": "Lemon Water",
+        "item_type": "beverage",
+        "price": 40,
+        "price_range": "low"
+    },
+    "paneer maggie": {
+        "id": 79,
+        "item": "Paneer Maggie",
+        "item_type": "snack",
+        "price": 70,
+        "price_range": "low"
+    },
+    "dai handi": {
+        "id": 80,
+        "item": "Dai Handi",
+        "item_type": "side dish",
+        "price": 130,
+        "price_range": "medium"
+    },
+    "mix raita": {
+        "id": 81,
+        "item": "Mix Raita",
+        "item_type": "side dish",
+        "price": 90,
+        "price_range": "medium"
+    },
+    "lemon soda": {
+        "id": 82,
+        "item": "Lemon Soda",
+        "item_type": "beverage",
+        "price": 50,
+        "price_range": "low"
+    },
+    "butter garlic maggie": {
+        "id": 83,
+        "item": "Butter Garlic Maggie",
+        "item_type": "snack",
+        "price": 60,
+        "price_range": "low"
+    },
+    "bhindi masala": {
+        "id": 84,
+        "item": "Bhindi Masala",
+        "item_type": "main course",
+        "price": 130,
+        "price_range": "medium"
+    },
+    "aloo raita": {
+        "id": 85,
+        "item": "Aloo Raita",
+        "item_type": "side dish",
+        "price": 60,
+        "price_range": "low"
+    },
+    "namkeen lassi": {
+        "id": 86,
+        "item": "Namkeen Lassi",
+        "item_type": "beverage",
+        "price": 60,
+        "price_range": "low"
+    },
+    "chilli butter garlic maggie": {
+        "id": 87,
+        "item": "Chilli Butter Garlic Maggie",
+        "item_type": "snack",
+        "price": 60,
+        "price_range": "low"
+    },
+    "baingan bharta": {
+        "id": 88,
+        "item": "Baingan Bharta",
+        "item_type": "main course",
+        "price": 130,
+        "price_range": "medium"
+    },
+    "green salad": {
+        "id": 89,
+        "item": "Green Salad",
+        "item_type": "side dish",
+        "price": 60,
+        "price_range": "low"
+    },
+    "mithi lassi": {
+        "id": 90,
+        "item": "Mithi Lassi",
+        "item_type": "beverage",
+        "price": 80,
+        "price_range": "low"
+    },
+    "cheese maggie": {
+        "id": 91,
+        "item": "Cheese Maggie",
+        "item_type": "snack",
+        "price": 80,
+        "price_range": "low"
+    },
+    "papad dry (2 pieces)": {
+        "id": 92,
+        "item": "Papad Dry (2 Pieces)",
+        "item_type": "side dish",
+        "price": 30,
+        "price_range": "low"
+    },
+    "thandai": {
+        "id": 93,
+        "item": "Thandai",
+        "item_type": "beverage",
+        "price": 50,
+        "price_range": "low"
+    },
+    "papad fry (2 pieces)": {
+        "id": 94,
+        "item": "Papad Fry (2 Pieces)",
+        "item_type": "side dish",
+        "price": 50,
+        "price_range": "low"
+    },
+    "mint mojito": {
+        "id": 95,
+        "item": "Mint Mojito",
+        "item_type": "beverage",
+        "price": 80,
+        "price_range": "low"
+    },
+    "masala papad (2 pieces)": {
+        "id": 96,
+        "item": "Masala Papad (2 Pieces)",
+        "item_type": "side dish",
+        "price": 80,
+        "price_range": "low"
+    },
+    "watermelon mojito": {
+        "id": 97,
+        "item": "Watermelon Mojito",
+        "item_type": "beverage",
+        "price": 70,
+        "price_range": "low"
+    },
+    "mango shake": {
+        "id": 98,
+        "item": "Mango Shake",
+        "item_type": "beverage",
+        "price": 70,
+        "price_range": "low"
+    },
+    "strawberry mojito": {
+        "id": 99,
+        "item": "Strawberry Mojito",
+        "item_type": "beverage",
+        "price": 90,
+        "price_range": "medium"
+    },
+    "banana shake": {
+        "id": 100,
+        "item": "Banana Shake",
+        "item_type": "beverage",
+        "price": 70,
+        "price_range": "low"
+    },
+    "blue lagoon mojito": {
+        "id": 101,
+        "item": "Blue Lagoon Mojito",
+        "item_type": "beverage",
+        "price": 90,
+        "price_range": "medium"
+    },
+    "oreo shake": {
+        "id": 102,
+        "item": "Oreo Shake",
+        "item_type": "beverage",
+        "price": 70,
+        "price_range": "low"
+    },
+    "mineral water": {
+        "id": 103,
+        "item": "Mineral Water",
+        "item_type": "beverage",
+        "price": -1,
+        "price_range": "unknown"
+    },
+    "kit kat shake": {
+        "id": 104,
+        "item": "Kit Kat Shake",
+        "item_type": "beverage",
+        "price": 80,
+        "price_range": "unknown"
+    },
+    "cold drink": {
+        "id": 105,
+        "item": "Cold Drink",
+        "item_type": "beverage",
+        "price": -1,
+        "price_range": "unknown"
+    },
+    "butter masala maggie": {
+        "id": 106,
+        "item": "Butter Masala Maggie",
+        "item_type": "snack",
+        "price": 60,
+        "price_range": "low"
+    },
+    "mini thali 1": {
+        "id": 107,
+        "item": "MINI THALI 1",
+        "item_type": "thali",
+        "price": 100,
+        "price_range": "low",
+        "description": "1 Mix Veg, 1 Dal Makhani, 2 Butter Roti, Salad & Raita"
+    },
+    "mini thali 2": {
+        "id": 108,
+        "item": "MINI THALI 2",
+        "item_type": "thali",
+        "price": 110,
+        "price_range": "low",
+        "description": "1 Yellow Dal, 1 Mix Veg, 2 Butter Roti, Salad & Raita"
+    },
+    "mini thali 3": {
+        "id": 109,
+        "item": "MINI THALI 3",
+        "item_type": "thali",
+        "price": 120,
+        "price_range": "low",
+        "description": "1 Chole, 1 Mix Veg, 2 Butter Roti, Salad & Raita"
+    },
+    "thali 1": {
+        "id": 110,
+        "item": "THALI 1",
+        "item_type": "thali",
+        "price": 130,
+        "price_range": "medium",
+        "description": "1 Chaap Gravy, 1 Mix Veg, Salad, Raita, 1 Butter Naan"
+    },
+    "thali 2": {
+        "id": 111,
+        "item": "THALI 2",
+        "item_type": "thali",
+        "price": 140,
+        "price_range": "medium",
+        "description": "1 Hyderabadi Paneer, 1 Mix Veg, 1 Butter Naan, Salad, Raita, Pulao"
+    },
+    "thali 3": {
+        "id": 112,
+        "item": "THALI 3",
+        "item_type": "thali",
+        "price": 160,
+        "price_range": "medium",
+        "description": "1 Hyderabadi Paneer, 1 Mix Veg, 1 Butter Naan, Salad, Raita, Pulao"
+    },
+    "thali 4": {
+        "id": 113,
+        "item": "THALI 4",
+        "item_type": "thali",
+        "price": 160,
+        "price_range": "medium",
+        "description": "1 Kadai Paneer, 1 Mix Veg, 1 Butter Naan, Salad, Raita, Pulao"
+    },
+    "thali 5": {
+        "id": 114,
+        "item": "THALI 5",
+        "item_type": "thali",
+        "price": 180,
+        "price_range": "medium",
+        "description": "1 Paneer Burji, 1 Mix Veg, 1 Chilli Garlic Naan, 3 Butter Roti, Salad, Raita, Pulao"
+    },
+    "thali 6": {
+        "id": 115,
+        "item": "THALI 6",
+        "item_type": "thali",
+        "price": 160,
+        "price_range": "medium",
+        "description": "1 Paneer Burji, 1 Mix Veg, 1 Chilli Garlic Naan, 3 Butter Roti, Salad, Raita, Pulao"
+    },
+    "chaap combo": {
+        "id": 116,
+        "item": "CHAAP COMBO",
+        "item_type": "thali",
+        "price": 160,
+        "price_range": "medium",
+        "description": "2 Rumali Roti, Chaap Gravy, Salad, Raita"
+    },
+    "dalia special thali": {
+        "id": 117,
+        "item": "DALIA SPECIAL THALI",
+        "item_type": "thali",
+        "price": 130,
+        "price_range": "medium",
+        "description": "Special Dahi Khichdi"
+    },
+    "dahi-khichdi special thali": {
+        "id": 118,
+        "item": "DAHI-KHICHDI SPECIAL THALI",
+        "item_type": "thali",
+        "price": 150,
+        "price_range": "medium",
+        "description": "Special Dahi Khichdi"
+    },
+    "rajma rice": {
+        "id": 119,
+        "item": "RAJMA RICE",
+        "item_type": "thali",
+        "price": 120,
+        "price_range": "medium",
+        "description": "Rajma, Rice"
+    },
+    "kadhi rice": {
+        "id": 120,
+        "item": "KADHI RICE",
+        "item_type": "thali",
+        "price": 120,
+        "price_range": "medium",
+        "description": "Kadhi, Rice"
+    },
+    "amritsari kulcha": {
+        "id": 176,
+        "item": "Amritsari Kulcha",
+        "item_type": "tandoori bread",
+        "price": 50,
+        "price_range": "low"
+    },
+    "dal rice thali": {
+        "id": 122,
+        "item": "DAL RICE THALI",
+        "item_type": "thali",
+        "price": 130,
+        "price_range": "medium",
+        "description": "Dal, Rice"
+    },
+    "sarson saag with makki roti (seasonal)": {
+        "id": 123,
+        "item": "SARSON SAAG WITH MAKKI ROTI (SEASONAL)",
+        "item_type": "thali",
+        "price": 170,
+        "price_range": "medium",
+        "description": "Sarson Saag with Makki Roti"
+    },
+    "dhaba special thali": {
+        "id": 124,
+        "item": "DHABA SPECIAL THALI",
+        "item_type": "thali",
+        "price": 250,
+        "price_range": "high",
+        "description": "Special Dhaba style thali"
+    },
+    "chole bhature": {
+        "id": 125,
+        "item": "CHOLE BHATURE",
+        "item_type": "thali",
+        "price": 150,
+        "price_range": "medium",
+        "description": "Chole with Bhature"
+    },
+    "mooli paratha": {
+        "id": 177,
+        "item": "Mooli Paratha",
+        "item_type": "tandoori bread",
+        "price": 80,
+        "price_range": "low"
+    },
+    "aloo paratha": {
+        "id": 178,
+        "item": "Aloo Paratha",
+        "item_type": "tandoori bread",
+        "price": 80,
+        "price_range": "low"
+    },
+    "pyaz paratha": {
+        "id": 128,
+        "item": "Pyaz Paratha",
+        "item_type": "tawa paratha",
+        "price": 70,
+        "price_range": "low",
+        "description": "Paratha made with puja (a type of flour mix)"
+    },
+    "aloo pyaz paratha": {
+        "id": 180,
+        "item": "Aloo Pyaz Paratha",
+        "item_type": "tandoori bread",
+        "price": 90,
+        "price_range": "low"
+    },
+    "mix paratha": {
+        "id": 181,
+        "item": "Mix Paratha",
+        "item_type": "tandoori bread",
+        "price": 100,
+        "price_range": "medium"
+    },
+    "gobhi paratha": {
+        "id": 182,
+        "item": "Gobhi Paratha",
+        "item_type": "tandoori bread",
+        "price": 80,
+        "price_range": "low"
+    },
+    "paneer paratha": {
+        "id": 183,
+        "item": "Paneer Paratha",
+        "item_type": "tandoori bread",
+        "price": 90,
+        "price_range": "low"
+    },
+    "steam rice": {
+        "id": 133,
+        "item": "Steam Rice",
+        "item_type": "rice",
+        "price": 50,
+        "price_range": "low",
+        "description": "Plain steamed rice"
+    },
+    "jeera rice": {
+        "id": 134,
+        "item": "Jeera Rice",
+        "item_type": "rice",
+        "price": 50,
+        "price_range": "low",
+        "description": "Rice flavored with cumin"
+    },
+    "veg fried rice": {
+        "id": 135,
+        "item": "Veg Fried Rice",
+        "item_type": "rice",
+        "price": 80,
+        "price_range": "low",
+        "description": "Fried rice with mixed vegetables"
+    },
+    "matar pulao": {
+        "id": 136,
+        "item": "Matar Pulao",
+        "item_type": "rice",
+        "price": 70,
+        "price_range": "low",
+        "description": "Rice with peas"
+    },
+    "paneer pulao": {
+        "id": 137,
+        "item": "Paneer Pulao",
+        "item_type": "rice",
+        "price": 80,
+        "price_range": "low",
+        "description": "Rice cooked with paneer"
+    },
+    "veg biryani": {
+        "id": 138,
+        "item": "Veg Biryani",
+        "item_type": "rice",
+        "price": 90,
+        "price_range": "medium",
+        "description": "Vegetarian biryani with aromatic spices"
+    },
+    "hyderabadi biryani": {
+        "id": 139,
+        "item": "Hyderabadi Biryani",
+        "item_type": "rice",
+        "price": 100,
+        "price_range": "medium",
+        "description": "Classic Hyderabadi biryani"
+    },
+    "veg pulao": {
+        "id": 140,
+        "item": "Veg Pulao",
+        "item_type": "rice",
+        "price": 90,
+        "price_range": "medium",
+        "description": ""
+    },
+    "mix pakora": {
+        "id": 141,
+        "item": "Mix Pakora",
+        "item_type": "pakoras",
+        "price": 80,
+        "price_range": "low",
+        "description": "Mixed vegetable fritters"
+    },
+    "paneer pakora": {
+        "id": 142,
+        "item": "Paneer Pakora",
+        "item_type": "pakoras",
+        "price": 110,
+        "price_range": "medium",
+        "description": "Fried fritters made with paneer"
+    },
+    "chilli potato": {
+        "id": 143,
+        "item": "Chilli Potato",
+        "item_type": "pakoras",
+        "price": 95,
+        "price_range": "low",
+        "description": "Fried potato pieces in a spicy sauce"
+    },
+    "honey chilli potato": {
+        "id": 144,
+        "item": "Honey Chilli Potato",
+        "item_type": "pakoras",
+        "price": 110,
+        "price_range": "medium",
+        "description": "Potato fritters in honey and chili sauce"
+    },
+    "butter toast": {
+        "id": 145,
+        "item": "Butter Toast",
+        "item_type": "pakoras",
+        "price": 30,
+        "price_range": "low",
+        "description": "Fried buttered toast"
+    },
+    "french fries": {
+        "id": 146,
+        "item": "French Fries",
+        "item_type": "pakoras",
+        "price": 70,
+        "price_range": "low",
+        "description": "Classic fried French fries"
+    },
+    "tomato soup": {
+        "id": 147,
+        "item": "Tomato Soup",
+        "item_type": "soups",
+        "price": 60,
+        "price_range": "low",
+        "description": "Classic tomato soup"
+    },
+    "veg sweet corn soup": {
+        "id": 148,
+        "item": "Veg Sweet Corn Soup",
+        "item_type": "soups",
+        "price": 60,
+        "price_range": "low",
+        "description": "Vegetarian sweet corn soup"
+    },
+    "mushroom soup": {
+        "id": 149,
+        "item": "Mushroom Soup",
+        "item_type": "soups",
+        "price": 80,
+        "price_range": "low",
+        "description": "Mushroom-based soup"
+    },
+    "thandi kheer": {
+        "id": 150,
+        "item": "Thandi Kheer",
+        "item_type": "sweets",
+        "price": 90,
+        "price_range": "low",
+        "description": "Chilled kheer (sweet rice pudding)"
+    },
+    "rasgulla/gulabjamun": {
+        "id": 151,
+        "item": "Rasgulla/Gulabjamun",
+        "item_type": "sweets",
+        "price": 35,
+        "price_range": "low",
+        "description": "Traditional Indian sweet, Rasgulla or Gulabjamun"
+    },
+    "rabdi jalebi": {
+        "id": 152,
+        "item": "Rabdi Jalebi",
+        "item_type": "sweets",
+        "price": 100,
+        "price_range": "low",
+        "description": "Sweet fried dessert served with rabri"
+    },
+    "veg grilled sandwich": {
+        "id": 153,
+        "item": "Veg Grilled Sandwich",
+        "item_type": "sandwiches",
+        "price": 70,
+        "price_range": "low",
+        "description": "Grilled sandwich with vegetable fillings"
+    },
+    "mushroom grilled sandwich": {
+        "id": 154,
+        "item": "Mushroom Grilled Sandwich",
+        "item_type": "sandwiches",
+        "price": 80,
+        "price_range": "low",
+        "description": "Grilled sandwich with mushroom filling"
+    },
+    "cheese grilled sandwich": {
+        "id": 155,
+        "item": "Cheese Grilled Sandwich",
+        "item_type": "sandwiches",
+        "price": 90,
+        "price_range": "low",
+        "description": "Grilled sandwich with cheese filling"
+    },
+    "paneer grilled sandwich": {
+        "id": 156,
+        "item": "Paneer Grilled Sandwich",
+        "item_type": "sandwiches",
+        "price": 90,
+        "price_range": "low",
+        "description": "Grilled sandwich with cheese filling"
+    },
+    "butter garlic toast": {
+        "id": 157,
+        "item": "Butter Garlic Toast",
+        "item_type": "sandwiches",
+        "price": 60,
+        "price_range": "low",
+        "description": "Grilled sandwich with cheese filling"
+    },
+    "special tea": {
+        "id": 158,
+        "item": "Special Tea",
+        "item_type": "tea & milk",
+        "price": 30,
+        "price_range": "low",
+        "description": "Specially brewed tea"
+    },
+    "green tea": {
+        "id": 159,
+        "item": "Green Tea",
+        "item_type": "tea & milk",
+        "price": 40,
+        "price_range": "low",
+        "description": "Refreshing green tea"
+    },
+    "hot coffee": {
+        "id": 160,
+        "item": "Hot Coffee",
+        "item_type": "tea & milk",
+        "price": 50,
+        "price_range": "low",
+        "description": "Classic hot coffee"
+    },
+    "cold coffee": {
+        "id": 161,
+        "item": "Cold Coffee",
+        "item_type": "tea & milk",
+        "price": 70,
+        "price_range": "low",
+        "description": "Cold coffee with ice cream"
+    },
+    "lemon ginger honey tea": {
+        "id": 162,
+        "item": "Lemon Ginger Honey Tea",
+        "item_type": "tea & milk",
+        "price": 40,
+        "price_range": "low",
+        "description": "Tea with lemon, ginger, and honey"
+    },
+    "hot milk (1 glass)": {
+        "id": 163,
+        "item": "Hot Milk (1 Glass)",
+        "item_type": "tea & milk",
+        "price": 50,
+        "price_range": "low",
+        "description": "Hot milk served in a glass"
+    },
+    "kesar milk": {
+        "id": 164,
+        "item": "Kesar Milk",
+        "item_type": "tea & milk",
+        "price": 70,
+        "price_range": "low",
+        "description": "Milk flavored with saffron"
+    },
+    "haldi milk": {
+        "id": 165,
+        "item": "Haldi Milk",
+        "item_type": "tea & milk",
+        "price": 60,
+        "price_range": "low",
+        "description": "Special milk drink"
+    },
+    "plain roti": {
+        "id": 166,
+        "item": "Plain Roti",
+        "item_type": "tandoori bread",
+        "price": 15,
+        "price_range": "low"
+    },
+    "butter roti": {
+        "id": 167,
+        "item": "Butter Roti",
+        "item_type": "tandoori bread",
+        "price": 20,
+        "price_range": "low"
+    },
+    "makki roti": {
+        "id": 168,
+        "item": "Makki Roti",
+        "item_type": "tandoori bread",
+        "price": 40,
+        "price_range": "low"
+    },
+    "missi roti": {
+        "id": 169,
+        "item": "Missi Roti",
+        "item_type": "tandoori bread",
+        "price": 40,
+        "price_range": "low"
+    },
+    "rumali roti": {
+        "id": 170,
+        "item": "Rumali Roti",
+        "item_type": "tandoori bread",
+        "price": 20,
+        "price_range": "low"
+    },
+    "lachha paratha": {
+        "id": 171,
+        "item": "Lachha Paratha",
+        "item_type": "tandoori bread",
+        "price": 40,
+        "price_range": "low"
+    },
+    "plain naan": {
+        "id": 172,
+        "item": "Plain Naan",
+        "item_type": "tandoori bread",
+        "price": 40,
+        "price_range": "low"
+    },
+    "butter naan": {
+        "id": 173,
+        "item": "Butter Naan",
+        "item_type": "tandoori bread",
+        "price": 50,
+        "price_range": "low"
+    },
+    "stuff naan": {
+        "id": 174,
+        "item": "Stuff Naan",
+        "item_type": "tandoori bread",
+        "price": 60,
+        "price_range": "low"
+    },
+    "paneer naan": {
+        "id": 175,
+        "item": "Paneer Naan",
+        "item_type": "tandoori bread",
+        "price": 80,
+        "price_range": "low"
+    },
+    "pyaaz paratha": {
+        "id": 179,
+        "item": "Pyaaz Paratha",
+        "item_type": "tandoori bread",
+        "price": 80,
+        "price_range": "low"
+    },
+    "garlic naan": {
+        "id": 184,
+        "item": "Garlic Naan",
+        "item_type": "tandoori bread",
+        "price": 60,
+        "price_range": "low"
+    },
+    "special paratha": {
+        "id": 185,
+        "item": "Special Paratha",
+        "item_type": "tandoori bread",
+        "price": 90,
+        "price_range": "medium"
+    },
+    "paneer pyaz paratha": {
+        "id": 186,
+        "item": "Paneer Pyaz Paratha",
+        "item_type": "tandoori bread",
+        "price": 80,
+        "price_range": "low"
+    },
+    "green chilli lachha paratha": {
+        "id": 187,
+        "item": "Green Chilli Lachha Paratha",
+        "item_type": "tandoori bread",
+        "price": 45,
+        "price_range": "low"
+    },
+    "red chilli lachha paratha": {
+        "id": 188,
+        "item": "Red Chilli Lachha Paratha",
+        "item_type": "tandoori bread",
+        "price": 45,
+        "price_range": "low"
+    },
+    "pudina lachha paratha": {
+        "id": 189,
+        "item": "Pudina Lachha Paratha",
+        "item_type": "tandoori bread",
+        "price": 50,
+        "price_range": "low"
+    },
+    "chilli garlic naan": {
+        "id": 190,
+        "item": "Chilli Garlic Naan",
+        "item_type": "tandoori bread",
+        "price": 65,
+        "price_range": "low"
+    }
+}
